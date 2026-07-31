@@ -8,7 +8,7 @@
     "email": "marc@startup.jobs"
   },
   "homepage": "https://startup.jobs/mcp",
-  "repository": "https://github.com/marckohlbrugge/startup-jobs-mcp",
+  "repository": "https://github.com/killbridge/startupjobs-mcp",
   "license": "MIT",
   "logo": "logo.svg",
   "keywords": [

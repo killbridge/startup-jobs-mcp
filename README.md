@@ -5,7 +5,7 @@ Search live [startup.jobs](https://startup.jobs) listings from Claude, Cursor, C
 **Docs:** https://startup.jobs/mcp  
 **Endpoint (Streamable HTTP):** `https://api.startup.jobs/mcp`  
 **Smithery:** https://smithery.ai/servers/jobs/startup-jobs  
-**Official Registry:** `io.github.marckohlbrugge/startup-jobs-mcp`  
+**Official Registry:** `io.github.killbridge/startupjobs-mcp`  
 
 
 This repository is the public listing + registry package for the hosted MCP server. The server itself runs on startup.jobs (not in this repo).

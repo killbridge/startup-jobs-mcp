@@ -1,18 +1,18 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.marckohlbrugge/startup-jobs-mcp",
+  "name": "io.github.killbridge/startupjobs-mcp",
   "title": "Startup Jobs",
   "description": "Search live startup jobs from Claude, Cursor, or ChatGPT via MCP. Free, no account needed.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://startup.jobs/mcp",
   "repository": {
-    "url": "https://github.com/marckohlbrugge/startup-jobs-mcp",
+    "url": "https://github.com/killbridge/startupjobs-mcp",
     "source": "github",
     "id": "1318634829"
   },
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/marckohlbrugge/startup-jobs-mcp/main/logo.svg",
+      "src": "https://raw.githubusercontent.com/killbridge/startupjobs-mcp/main/logo.svg",
       "mimeType": "image/svg+xml",
       "sizes": [
         "any"
@@ -26,7 +26,7 @@
       "headers": [
         {
           "name": "Authorization",
-          "description": "Optional. Bearer sj_\u2026 API key from https://startup.jobs/account/api_keys for usage attribution and full access. Free tier works without a key. Docs: https://startup.jobs/mcp",
+          "description": "Optional. Bearer sj_… API key from https://startup.jobs/account/api_keys for usage attribution and full access. Free tier works without a key. Docs: https://startup.jobs/mcp",
           "isRequired": false,
           "isSecret": true,
           "format": "string",
