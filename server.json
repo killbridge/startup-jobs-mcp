@@ -1,18 +1,18 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.killbridge/startup-jobs-mcp",
+  "name": "io.github.marckohlbrugge/startup-jobs-mcp",
   "title": "Startup Jobs",
   "description": "Search live startup jobs from Claude, Cursor, or ChatGPT via MCP. Free, no account needed.",
   "version": "1.0.0",
   "websiteUrl": "https://startup.jobs/mcp",
   "repository": {
-    "url": "https://github.com/killbridge/startup-jobs-mcp",
+    "url": "https://github.com/marckohlbrugge/startup-jobs-mcp",
     "source": "github",
     "id": "1318634829"
   },
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/killbridge/startup-jobs-mcp/main/logo.svg",
+      "src": "https://raw.githubusercontent.com/marckohlbrugge/startup-jobs-mcp/main/logo.svg",
       "mimeType": "image/svg+xml",
       "sizes": [
         "any"
