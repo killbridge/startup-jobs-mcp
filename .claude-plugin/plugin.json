@@ -1,0 +1,22 @@
+{
+  "name": "startup-jobs",
+  "description": "Search live startup.jobs listings via MCP — jobs, companies, salary benchmarks, and hiring trends. Free anonymous access; optional API key for attribution and full archive.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Marc Köhlbrugge",
+    "email": "marc@startup.jobs"
+  },
+  "homepage": "https://startup.jobs/mcp",
+  "repository": "https://github.com/marckohlbrugge/startup-jobs-mcp",
+  "license": "MIT",
+  "keywords": [
+    "jobs",
+    "startup-jobs",
+    "job-search",
+    "remote-jobs",
+    "recruiting",
+    "salaries",
+    "mcp",
+    "claude-code"
+  ]
+}

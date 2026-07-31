@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "startup-jobs": {
+      "type": "http",
+      "url": "https://api.startup.jobs/mcp"
+    }
+  }
+}
