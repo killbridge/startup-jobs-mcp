@@ -7,13 +7,16 @@
   "websiteUrl": "https://startup.jobs/mcp",
   "repository": {
     "url": "https://github.com/killbridge/startup-jobs-mcp",
-    "source": "github"
+    "source": "github",
+    "id": "1318634829"
   },
   "icons": [
     {
       "src": "https://raw.githubusercontent.com/killbridge/startup-jobs-mcp/main/logo.svg",
       "mimeType": "image/svg+xml",
-      "sizes": ["any"]
+      "sizes": [
+        "any"
+      ]
     }
   ],
   "remotes": [
@@ -23,7 +26,7 @@
       "headers": [
         {
           "name": "Authorization",
-          "description": "Optional. Bearer sj_… API key from https://startup.jobs/account/api_keys for usage attribution and full access. Free tier works without a key. Docs: https://startup.jobs/mcp",
+          "description": "Optional. Bearer sj_\u2026 API key from https://startup.jobs/account/api_keys for usage attribution and full access. Free tier works without a key. Docs: https://startup.jobs/mcp",
           "isRequired": false,
           "isSecret": true,
           "format": "string",
